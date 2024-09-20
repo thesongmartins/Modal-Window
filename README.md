@@ -21,15 +21,13 @@ CSS3: For styling the modal, buttons, and overlay.
 JavaScript (ES6): For handling modal opening and closing behavior.
 Getting Started
 Installation
-Clone the repository:
 
-`bash
+## Clone the repository:
+
+`
 git clone https://github.com/yourusername/modal-window-project.git`
 Navigate to the project directory:
-
-`bash
-
-cd modal-window-project `Open the project: Open`index.html` in your browser to see the modal in action.
+cd modal-window-project Open the project: Open`index.html` in your browser to see the modal in action.
 
 ## Usage
 
